@@ -1,0 +1,27 @@
+{
+  "name": "localize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StartupTeamUW/localize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StartupTeamUW/localize/issues"
+  },
+  "homepage": "https://github.com/StartupTeamUW/localize#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql2": "^1.6.4",
+    "nodemon": "^1.18.6",
+    "path": "^0.12.7",
+    "sequelize": "^4.41.2"
+  }
+}

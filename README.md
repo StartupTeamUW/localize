@@ -16,8 +16,9 @@
 
 ### User Stories:
   1. As a user, I want to be able to log in via Google/Facebook or sign up using a valid email address, sign up to be a member
-  2. As a user, I want to be able to conviniently locate the nearest local
-  3. As a user, I want to be able to sign up 
+  2. As a user, I want to be able to conviniently locate the nearest local with similar interests.
+  3. As a user, I want to be able to enter my trip information and receive ratings.
+   
 
 - Nice-To-Haves
   * turn web into a mobile app
@@ -42,9 +43,9 @@
   
 ### Material and Tools
   * Node.js
-  * [Sound.js](https://www.createjs.com/soundjs)
+  * [ORM](https://www.createjs.com/soundjs)
   * [Material Design Lite](https://github.com/google/material-design-lite)
-  * [Google Firebase Plaform](https://firebase.google.com)
+  * [MySQL](https://firebase.google.com)
   * [Sprite.js library](https://spritejs.readthedocs.io/en/latest/)
  
 ### Copyrights and Acknowledgements
