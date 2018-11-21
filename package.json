@@ -1,0 +1,26 @@
+{
+  "name": "localize",
+  "version": "1.0.0",
+  "description": "A web app to help find friends in a new city",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StartupTeamUW/localize.git"
+  },
+  "author": "Kimmy, Jia, Chi, Kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StartupTeamUW/localize/issues"
+  },
+  "homepage": "https://github.com/StartupTeamUW/localize#readme",
+  "dependencies": {
+    "eslint": "^5.9.0",
+    "express": "^4.16.4",
+    "handlebars": "^4.0.12",
+    "mysql2": "^1.6.4"
+  }
+}
