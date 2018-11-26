@@ -6,7 +6,7 @@
 │   └── config.json
 │ 
 ├── models
-│   ├── users.js
+│   ├── user.js
 │   ├── trip.js
 │   └── index.js
 │
@@ -26,7 +26,7 @@
 │       │   └── cms.js (cms=content management system)
 │       │
 │       └── img
-│           └── burger.png
+│       
 ├── routes
 │   ├── user-api-routes
 │   ├── trip-api-routes
@@ -42,6 +42,12 @@
 │   
 ├── server.js
 │
+├── views - testing user inputs (signup, profile, trip plans) 
+│   ├── user-data.html -- geting user inputs
+│   ├── user-data.js 
+│   ├── trip-data.html -- geting trip info
+│   └── trip-data.js
+│ 
 └── *views (if we choose to use handlebars)
     ├── index.handlebars
     └── layouts
