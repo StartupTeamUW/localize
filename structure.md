@@ -28,8 +28,8 @@
 │       └── img
 │       
 ├── routes
-│   ├── user-api-routes
-│   ├── trip-api-routes
+│   ├── user-api-routes.js
+│   ├── trip-api-routes.js
 │   └── html-routes.js
 │
 ├── db
