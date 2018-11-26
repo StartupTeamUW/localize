@@ -22,6 +22,8 @@
     "express": "^4.16.4",
     "handlebars": "^4.0.12",
     "material-design-icons": "^3.0.1",
-    "mysql2": "^1.6.4"
+    "mysql2": "^1.6.4",
+    "places.js": "^1.14.0",
+    "require.js": "^1.0.0"
   }
 }
